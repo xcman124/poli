@@ -15,7 +15,6 @@ namespace NUni
         {
             // TODO: Add your test code here
             Assert.Pass("Your first passing test");
-
         
         }
     }
